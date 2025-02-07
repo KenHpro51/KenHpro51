@@ -245,6 +245,14 @@ https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="Hub Premier", HubPremier3-FHD
 https://7pal.short.gy/HPremier3
 
+--Diema Sports
+#EXTINF:-1 group-title="Diema Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport
+http://p1.cvtv.xyz/die1?token=live
+#EXTINF:-1 group-title="Diema Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
+http://p1.cvtv.xyz/die2?token=live
+#EXTINF:-1 group-title="Diema Sports" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/diema3.png",Diema Sport 3
+http://p1.cvtv.xyz/die3?token=live
+
 --TNTSports
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="TNTSports", TNTSports1-FHD
 https://7pal.short.gy/tntspts1
