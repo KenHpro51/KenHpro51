@@ -236,7 +236,6 @@ http://olala.thatvidieu.site/stream/mux/cf71b9fa5c520e4cbd2217f81beb4596
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
-
 --HubPremier
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Hub Premier", HubPremier1-FHD
 https://7pal.short.gy/HPremier1
@@ -326,6 +325,10 @@ https://7pal.short.gy/spersptns
 --Sportdigital
 #EXTINF:-1 group-title="Sportdigital" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
 http://p1.cvtv.xyz/spd?token=live
+
+--Nova Sport
+#EXTINF:-1 group-title="Nova Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova Sport
+http://p1.cvtv.xyz/nvs?token=live
 
 --4kUHD
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
