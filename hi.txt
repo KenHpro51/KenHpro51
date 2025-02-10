@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz, https://7pal.short.gy/alex-epg"
 
---VTV
+--VTV (vmttv)
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
@@ -33,7 +33,7 @@ http://thvip.site/vtv8/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://thvip.site/vtv9/index.m3u8
 
---OnPlus
+--OnPlus (vmttv)
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
@@ -54,6 +54,8 @@ https://liveh34.vtvcab.vn/hls/ONSPORT08/index.m3u8
 https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
 https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
+
+-TV360 (vmttv)
 #EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tv.truyenhinh.click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh
@@ -80,7 +82,7 @@ https://tv.truyenhinh.click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="TV360" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VMT
 
---VTVcab
+--VTVcab (vmttv)
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
@@ -154,7 +156,7 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
 
---K+
+--K+ (vmttv)
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
@@ -165,7 +167,7 @@ https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/01.m3u8
 
---SCTV
+--SCTV (vmttv)
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/SCTV1HD.jpg", SCTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
@@ -236,7 +238,7 @@ http://olala.thatvidieu.site/stream/mux/cf71b9fa5c520e4cbd2217f81beb4596
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
---HubPremier
+--HubPremier (alxstream)
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Hub Premier", HubPremier1-FHD
 https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="Hub Premier", HubPremier2-FHD
@@ -244,7 +246,7 @@ https://7pal.short.gy/HPremier2
 #EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="Hub Premier", HubPremier3-FHD
 https://7pal.short.gy/HPremier3
 
---Diema Sports
+--Diema Sports (cvtv)
 #EXTINF:-1 group-title="Diema Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png",Diema Sport
 http://p1.cvtv.xyz/die1?token=live
 #EXTINF:-1 group-title="Diema Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png",Diema Sport 2
@@ -252,7 +254,19 @@ http://p1.cvtv.xyz/die2?token=live
 #EXTINF:-1 group-title="Diema Sports" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/diema3.png",Diema Sport 3
 http://p1.cvtv.xyz/die3?token=live
 
---TNTSports
+-TNTSports (cvtv)
+#EXTINF:-1 group-title="TNT Sports (cvtv)" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
+http://p1.cvtv.xyz/tnt1?token=live
+#EXTINF:-1 group-title="TNT Sports (cvtv)" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
+http://p1.cvtv.xyz/tnt2?token=live
+#EXTINF:-1 group-title="TNT Sports (cvtv)" tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
+http://p1.cvtv.xyz/tnt3?token=live
+#EXTINF:-1 group-title="TNT Sports (cvtv)" tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
+http://p1.cvtv.xyz/tnt4?token=live
+#EXTINF:-1 group-title="TNT Sports (cvtv)" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tntsp5.png",TNT Sports 5
+http://p1.cvtv.xyz/tnt5?token=live
+
+--TNTSports (alxstream)
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="TNTSports", TNTSports1-FHD
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="TNTSports", TNTSports2-FHD
@@ -262,7 +276,7 @@ https://7pal.short.gy/tntspts3
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="TNTSports", TNTSports4-FHD
 https://7pal.short.gy/tntspts4
 
---SkySports
+--SkySports (alxstream)
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="Sky Sports", SkySports_MainEvent-FHD
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="Sky Sports", SkySports_PremierLeague-FHD
@@ -286,7 +300,7 @@ https://7pal.short.gy/ssportsat
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="Sky Sports", SkySports_BoxOffice
 https://7pal.short.gy/ssportsbo
 
---Astro
+--Astro (alxstream)
 #EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="Astro", Astro_Premier_League-FHD
 https://7pal.short.gy/astross1
 #EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="Astro", Astro_Premier_League2-FHD
@@ -296,13 +310,13 @@ https://7pal.short.gy/astross3
 #EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="Astro", Astro_Football-FHD
 https://7pal.short.gy/astross4
 
---PremierSports
+--PremierSports (alxstream)
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="Premier Sports", PremierSports1-FHD
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="Premier Sports", PremierSports2-FHD
 https://7pal.short.gy/prsport2
 
---SuperSports
+--SuperSports (alxstream)
 #EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="Super Sports", Supersport_Premier_League-FHD
 https://7pal.short.gy/spersppl
 #EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="Super Sports", Supersport_Football-FHD
@@ -322,15 +336,15 @@ https://7pal.short.gy/sperspgf
 #EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="hhttps://i.imgur.com/SfYpvJj.png" group-title="Super Sports", Supersport_Tennis-FHD
 https://7pal.short.gy/spersptns
 
---Sportdigital
+--Sportdigital (cvtv)
 #EXTINF:-1 group-title="Sportdigital" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
 http://p1.cvtv.xyz/spd?token=live
 
---Nova Sport
+--Nova Sport (cvtv)
 #EXTINF:-1 group-title="Nova Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova Sport
 http://p1.cvtv.xyz/nvs?token=live
 
---4kUHD
+--4kUHD (alxstream)
 #EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-logo="https://i.imgur.com/zzeXXYF.png" group-title="Sports | 4K UHD",Sky Sports Main Event UHD
 https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.imgur.com/3cW86E5.png" group-title="Sports | 4K UHD",Astro Sports UHD
@@ -365,6 +379,7 @@ https://7pal.short.gy/mplusuhd
 https://7pal.short.gy/nesnuhd
 
 --Events
+(alxstream)
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 1
 https://7pal.short.gy/event1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 2
@@ -373,7 +388,7 @@ https://7pal.short.gy/event2
 https://7pal.short.gy/event3
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6CT6m6.png" group-title="Sports | Events", Event 4
 https://7pal.short.gy/event4
-
+(cvtv)
 #EXTINF:-1 group-title="Sports | Events" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/event.png",CVmedia Live
 http://p1.cvtv.xyz/fpt?token=live
 #EXTINF:-1 group-title="Sports | Events" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/event.png",CVmedia Live 2
